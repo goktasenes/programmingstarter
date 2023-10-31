@@ -31,6 +31,7 @@ public class OrderNumbers {
 					System.out.println("the smallest is " + num3);
 
 				}
+				
 			}
 			
 			else {
