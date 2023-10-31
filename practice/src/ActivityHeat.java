@@ -6,7 +6,7 @@ public class ActivityHeat {
 				
 		Scanner inp = new Scanner(System.in);
 		
-		System.out.println("Enter the temprature: ");
+		System.out.println("Enter the temperature: ");
 		int heat = inp.nextInt();
 		
 		if (heat<5) {
