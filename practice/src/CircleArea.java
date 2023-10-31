@@ -15,7 +15,7 @@ public class CircleArea {
 		angle = inp.nextInt();
 		
 		area =  (pi * (radius*radius) * angle) / 360;
-		System.out.println("AREA:" + area);
+		System.out.println("AREA: " + area);
 
 	}
 
