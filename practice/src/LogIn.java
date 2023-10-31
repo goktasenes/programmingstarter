@@ -16,6 +16,7 @@ public class LogIn {
 		}
 		
 		else {
+			
 			System.out.println("wrong username or password");
 			
 			System.out.println("forgot password?\n1-yes\t2-no");
