@@ -40,7 +40,6 @@ public class OrderNumbers {
 				System.out.println("the greatest is " + num3);
 				System.out.println("the smallest is " + num2);
 
-				
 			}
 			
 
