@@ -3,8 +3,9 @@ public class Loops {
 
 	public static void main(String[] args) {
 	
-//		Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 
-//		3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız.
+		// We are writing a program in Java using loops to calculate the average of numbers 
+		// from 0 to a user-entered number that are divisible by 3 and 4.
+
 		
 		
 		Scanner input = new Scanner(System.in);
